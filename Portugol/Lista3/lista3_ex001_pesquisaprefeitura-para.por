@@ -1,6 +1,6 @@
 programa
 {
-	inclua biblioteca Matematica-->mat
+	inclua biblioteca Matematica-->mat
 	
 	funcao inicio()
 	{
@@ -35,7 +35,7 @@ programa
 	 }
 	 mediaSalario = somaSalarios / 20
 	 mediaFilhos = somaFilhos / 20
-	 percentual = contador / 20
+	 percentual = (contador / 20)*100
 	 escreva("\nA média de filhos por habitante vale: ",mat.arredondar(mediaFilhos,0))
 	 escreva("\n\nA média de salário entre os habitantes vale: R$ ",mat.arredondar(mediaSalario, 2))
 	 escreva("\nO maior salário foi de R$",maiorSalario)
@@ -47,7 +47,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1156; 
+ * @POSICAO-CURSOR = 1020; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
