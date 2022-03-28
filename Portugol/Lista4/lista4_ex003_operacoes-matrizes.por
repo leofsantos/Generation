@@ -34,7 +34,7 @@ programa
  * 
  * @POSICAO-CURSOR = 395; 
  * @PONTOS-DE-PARADA = 16, 17, 6, 24, 25, 12, 13, 14, 15;
- * @SIMBOLOS-INSPECIONADOS = {N1, 6, 10, 2}-{N2, 6, 19, 2}-{M1, 6, 28, 2}-{M2, 6, 37, 2};
+ * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
  */
