@@ -1,4 +1,4 @@
-package Turma51;
+package Turma51.Lista1;
 
 import java.util.Scanner;
 
