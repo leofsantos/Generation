@@ -10,6 +10,7 @@ public class Exercicio5 {
 		Scanner ler = new Scanner(System.in);
 		System.out.print("Digite um número do seu teclado: ");
 		num = ler.nextInt();
+		soma+=num;
 		
 		do
 		{
