@@ -6,7 +6,6 @@ public class TesteCliente {
 	public static void main(String[] args) {
 		
 		Cliente cliente1 = new Cliente("Luís Guerreiro","123.456.789-10",25);
-		Scanner leia = new Scanner(System.in);
 		
 		cliente1.imprimir();
 		
